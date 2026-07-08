@@ -80,28 +80,14 @@ nav a:hover{
 
 /* ================= HERO ================= */
 
-.hero{
-
-    height:100vh;
-
-    background:linear-gradient(rgba(0,0,0,.70),rgba(0,0,0,.75)),
-    url s06.jpg
-
-    background-size:cover;
-
-    background-position:center;
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
-    text-align:center;
-
-    padding:20px;
-
-}
+.hero {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    padding: 0 8%;
+    background-image: url("jetour-s06.jpg");
+    background-size: cover;
+    background-position: cente
 
 .hero-content{
 
