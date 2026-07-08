@@ -307,3 +307,13 @@ nav{
 }
 
 }
+.whatsapp {
+    background: #25D366;
+    border-color: #25D366;
+    color: white;
+}
+
+.whatsapp:hover {
+    background: white;
+    color: #25D366;
+}
