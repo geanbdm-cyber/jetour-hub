@@ -24,6 +24,22 @@ header{
 
     position:fixed;
 
+    .videos{
+    padding:60px 8%;
+    text-align:center;
+}
+
+.video-box{
+    max-width:450px;
+    margin:30px auto;
+}
+
+.video-box video{
+    width:100%;
+    border-radius:15px;
+    box-shadow:0 10px 30px rgba(0,0,0,.3);
+}
+
     width:100%;
 
     top:0;
