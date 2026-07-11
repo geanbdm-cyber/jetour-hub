@@ -317,3 +317,22 @@ nav{
     background: white;
     color: #25D366;
 }
+
+.videos {
+    padding: 60px 8%;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    aspect-ratio: 16 / 9;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 12px;
+}
